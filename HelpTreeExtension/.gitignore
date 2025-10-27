@@ -1,0 +1,28 @@
+# dependencies / builds
+node_modules/
+dist/
+build/
+out/
+.vscode-test/
+
+# logs & caches
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.cache/
+.eslintcache
+
+# env / secrets
+.env
+.env.*
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+
+# lockfiles (pick the one you actually use and remove others if you want)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
