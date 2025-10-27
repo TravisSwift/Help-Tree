@@ -6,7 +6,7 @@
     "default_title": "Help Tree",
     "default_popup": "popup.html"
   },
-  "icons": {
+  "default_icon": {
     "128": "icon.png"
   },
   "permissions": []
