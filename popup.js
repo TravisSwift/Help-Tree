@@ -1,3 +1,5 @@
+console.log('popup.js loaded');
+
 // Toggle slider visibility
 document.querySelector('.trigger').addEventListener('click', () => {
   console.log('Trigger clicked');
